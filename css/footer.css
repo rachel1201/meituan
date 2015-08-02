@@ -1,0 +1,170 @@
+.container-content-extr{
+	height: 67px;
+	padding-bottom: 20px;
+
+}
+.extr-hot{
+	border-bottom: 1px solid #eee;
+}
+.extr-hot-box{
+	float: left;
+	margin-right: -1px;
+	padding: 0 6px;
+	width: 78px;
+	border: 1px solid #eee;
+	border-bottom: 0;
+	background: #f9f9f9;
+	text-align: center;
+	cursor: pointer;
+	height: 23px;
+}
+.extr-hot-item{
+	outline: 0;
+	color: #666;
+	text-decoration: none;
+	position: relative;
+	display: block;
+	padding: 0 15px;
+	font-size: 12px;
+	line-height: 23px;
+}
+.extr-hot-box:hover{
+	background-color: #eee;
+}
+.extr-cla-detail{
+	border: 1px solid #eee;
+	border-top: 0;
+	padding: 10px;
+	background: #fff;
+	height: 21px;
+}
+.extr-cla-detail a{
+	display: inline-block;
+	color: #666;
+	font-size: 12px;
+	padding: 0 5px;
+	line-height: 16px;
+	white-space: nowrap;
+	width: 85px;
+	overflow: hidden;
+}
+.extr-cla-detail a:hover{
+	text-decoration: underline;
+}
+.b{
+	border-top: 3px solid #2bb8aa;
+	background: #f9f9f9;
+	padding-bottom: 30px;
+	height: 298px;
+}
+.b-container{
+	width: 1170px;
+	height: 288px;
+	margin:0 auto;
+}
+.site-info_item{
+	float: left;
+	border-left: 1px dotted #aaa;
+	border-right: 1px dotted #F7F7F7;
+	padding: 20px 0 0 25px;
+	width: 202px;
+	height: 160px;
+}
+.site-info_item-service{
+	border-right-color: #aaa;
+	padding-right: 25px;
+	font-family: "Hiragino Sans GB"," Microsoft YaHei","WenQuanYi Micro Hei",arial,sans-serif;
+	color: #666;
+	font-size: 12px;
+	line-height: 18px;
+}
+.copy-right{
+	padding: 30px 0 10px;
+	clear: both;
+	color: #999;
+	text-align: center;
+	font-size: 12px;
+	font-family: initial;
+	height: 18px;
+	line-height: 18px;
+}
+.copy-right a{
+	text-decoration:none;
+	color: #999;
+}
+.copy-right a:hover{
+	text-decoration: underline;
+}
+.cert{
+	margin: 10px auto;
+	text-align: center;
+}
+.cert-item{
+	display: inline-block;
+	margin: 0 5px;
+	height: 40px;
+	vertical-align: top;
+}
+.cert-item a{
+	display: block;
+	background-image: url(../images/cert.png);
+	width: 111px;
+	height: 40px;
+	background-repeat: no-repeat;
+}
+.cert-item-1 a{
+	background-position: 0 -178px;
+}
+.cert-item-2 a{
+	background-position: 0 0;
+	width: 123px;
+}
+.cert-item-4 a{
+	width: 114px;
+	background-position: 0 -136px;
+}
+.cert-item-3 a{
+	width: 87px;
+	background-position: 0 -220px;
+}
+.cert-item-5 a{
+	width: 123px;
+	background-position: 0 -42px;
+}
+.site-info_item h3{
+	margin-bottom: 8px;
+	font-size: 14px;
+	color: #3E4545;
+	font-family: "Hiragino Sans GB"," Microsoft YaHei","WenQuanYi Micro Hei",arial,sans-serif;
+}
+.site-info_item a{
+	font-size: 12px;
+	color: #666;
+}
+.site-info_item ul{
+	list-style: disc;
+	padding-left: 16px;
+	line-height: 1.8;
+	color: #666;
+	font: 400 14px/1.5 "Hiragino Sans GB","WenQuanYi Micro Hei",tahoma,sans-serif;
+}
+.hot-line{
+	display: block;
+	background-position: 0 -84px;
+	margin: 0 auto 15px;
+	width: 53px;
+	height: 50px;
+	background-image: url(../images/cert.png);
+}
+.desc{
+	font-weight: 700;
+}
+.site-info_item-service a{
+	color: #2bb8aa;
+}
+.site-info_item-service a:hover{
+	text-decoration: underline;
+}
+.contact-info{
+	margin-top: 15px;
+}

@@ -1,0 +1,355 @@
+h3{
+	margin: 0;
+	padding:0;
+}
+p{
+	margin: 0;
+	padding:0;
+}
+.container-content-middle{
+	height: 310px;
+	margin-bottom: 30px;
+}
+.famous{
+	width: 953px;
+	height: 310px;
+}
+.lottery{
+	width: 198px;
+	height: 310px;
+}
+.pull-right{
+	float: right;
+}
+.famous-top{
+	height: 48px;
+}
+.famous-bottom{
+	height: 260px;
+	width: 951px;
+	border:1px solid #eee;
+}
+.famous-bottom-item{
+	width: 237px;
+	height: 260px;	 
+}
+.famous-bottom-item-b{
+	border-right:1px solid #eee;
+}
+.famous-bottom-item-img{
+	display: block;
+	position: relative;
+	height:124px;
+	width: 205px;
+	padding: 15px 16px 0;
+}
+.famous-bottom-item-img img{
+	height:124px;
+	width: 205px;
+}
+.famous-bottom-title{
+	width: 205px;
+	height:18px;
+	line-height: 18px;
+	padding: 0 16px;
+	margin-top: 18px;
+}
+.famous-bottom-title a{
+	font-family: "Hiragino Sans GB"," Microsoft YaHei","WenQuanYi Micro Hei",arial,sans-serif;
+	color: #666;
+	font-size: 14px;
+	height: 18px;
+	width: 205px;
+	display: block;
+	float: left;	
+}
+.famous-bottom-detail{
+	width: 205px;
+	height: 17px;
+	margin-top: 10px;
+	margin-bottom: 12px;
+	padding: 0 16px;
+}
+.price{
+	font-size: 16px;
+	color: #f76120;
+}
+.price strong{
+	margin: .1em;
+	font-family: arial,sans-serif;
+	font-weight: 400;
+}
+.sales{
+	float: right;
+	margin-top: 2px;
+	font-size: 12px;
+	font-weight: 400;
+	color: #999;
+}
+.famous-bottom-extra{
+	width: 205px;
+	height: 46px;
+	padding: 0 16px;
+}
+.extra-inner{
+	border-top: 1px dotted #ddd;
+	padding: 0;
+	height: 45px;
+	background: #fff;
+	margin: 0;
+}
+.extra-inner span{
+	padding: 1px 5px;
+	line-height: 40px;
+	color: #fff;
+	background-color: #f76120;
+	font-size: 12px;
+}
+.deal-mark{
+	top: 11px;
+	left: 16px;
+	position: absolute;
+	z-index: 9;
+}
+.deal-mark-item{
+	background-image: url(../images/meituan.png);
+	background-repeat: no-repeat;
+	margin-right: -3px;
+	width: 43px;
+	height: 40px;
+	text-indent: -9999px;
+	overflow: hidden;
+	float: left;
+}
+.deal-mark-pois{
+	background-position: 0 -619px;
+}
+.deal-mark-nbooking{
+	background-position: 0 -451px;
+}
+.jump-link{
+	float: left;
+	margin-right: 7px;
+	line-height: 40px;
+	font-size: 20px;
+	color: #666;
+	display: block;
+	width: 117px;
+	height: 40px;
+
+}
+.jump-link-logo{
+	float: left;
+	width: 37px;
+	height: 40px;
+	background-position: 0 -321px;
+	background-image: url(../images/famous.png);
+	background-repeat: no-repeat;
+}
+.countdown{
+	float: left;
+	border: 1px solid #eee;
+	padding: 6px 5px;
+	border-radius: 3px;
+	width: 215px;
+	height: 29px;
+}
+.lottery-head{
+	width: 198px;
+	height: 20px;
+	margin: 14px 0;
+	background-position: 0 -448px;
+	background-image: url(../images/famous.png);
+}
+.lottery-head a{
+	float: right;
+	height: 20px;
+	line-height: 20px;
+	font-size: 14px;
+	color: #666;
+}
+.lottery-body{
+	height: 260px;
+	width: 196px;
+	border: 1px solid #eee;
+}
+.floor-category-head{
+	width: 1170px;
+	height: 30px;
+	margin-bottom: 12px;
+}
+.title{
+	float: left;
+	display: block;
+	height: 30px;
+	line-height: 30px;
+	font-size: 20px;
+	color: #666;
+	width: 84px;
+}
+.food-icon{
+	background-image: url(../images/food.png);
+	background-repeat: no-repeat;
+	float: left;
+	margin-right: 6px;
+	height: 29px;
+	width: 38px;
+	background-position: 0 0;
+}
+.sub-categories{
+	float: right;
+	height: 30px;
+	line-height: 30px;
+}
+.sub-categories li{
+	float: left;
+}
+
+.sub-caregories-cell a{
+	margin-top: 13px;
+	border-right: 1px solid #ddd;
+	padding: 0 9px;
+	height: 14px;
+	line-height: 14px;
+	font-size: 14px;
+	color: #666;
+}
+.sub-caregories-cell a:hover{
+	color: #2bb8aa;
+}
+.detail-tile{
+	border: 1px solid #eee;
+	background-color: #fff;
+	color: #999;
+	position: relative;
+	float: left;
+	width: 291px;
+	height: 311px;
+	border-right: none;
+	border-bottom: none;
+}
+.cf::after{
+	content: '.';
+	display: block;
+	clear: both;
+	height: 0;
+	overflow: hidden;
+	visibility: hidden;
+}
+.floor-category-body{
+	border-right: 1px solid #eee;
+	border-bottom: 1px solid #eee;
+}
+.floor-category-foot{
+	height: 48px;
+	margin-bottom: 40px;
+}
+.floor-font{
+	display: block;
+	height: 48px;
+	line-height: 48px;
+	text-align: center;
+	font-size: 14px;
+	background: #f6f6f6;
+	color: #666;
+}
+.floor-font:hover{
+	color: #2bb8aa;
+}
+.detail-tile-img{
+	padding: 12px 15px 0;
+	display: block;
+	position: relative;
+	width: 261px;
+	height: 154px;
+}
+.detail-tile-head{
+	margin-top: 12px;
+	padding: 0 15px 5px;
+	width: 261px;
+	height:48px;
+
+}
+.xtitle{
+	margin-bottom: 0;
+	font-size: 14px;
+	color: #666;
+	height: 24px;
+	line-height: 24px;
+	text-indent: -.5em;
+	display: block;
+}
+.stitle{
+	color: #999;
+	height: 24px;
+	line-height: 24px;
+	font-weight: 400;
+	display: block;
+	font-size: 15px;
+	font-family: "Hiragino Sans GB"," Microsoft YaHei","WenQuanYi Micro Hei",arial,sans-serif;
+
+}
+.stitle:hover{
+	color: #333;
+}
+.detail-tile-price{
+	margin-bottom: 10px;
+	padding: 0 15px;
+	height: 24px;
+	font-size: 20px;
+}
+.detail-tile-price strong{
+	font-size: 20px;
+	font-weight: 400;
+}
+.detail-tile-extr{
+	width: 261px;
+	height: 46px;
+	padding: 0 15px;
+
+}
+.title-extr-inner{
+	width: 261px;
+	height: 45px;
+	border-top: 1px dotted #ddd;
+
+}
+.e-inner-c{
+	float: left;
+	margin: 10px 5px 0 0;
+	padding: 0 4px;
+	height: 16px;
+	line-height: 16px;
+	font-size: 12px;
+	color: #fff;
+	background-color: #ff8e3f;
+}
+.e-inner-l{
+	float: right;
+	height: 33px;
+	line-height: 33px;
+	cursor: pointer;
+	display: block;
+	width: 119px;
+	font-size: 12px;
+
+}
+.rate-info-bar{
+	display: block;
+	float: left;
+	width: 60px;
+	height: 12px;
+	background-image: url(../images/starnone.png);
+	background-repeat: repeat-x;
+	margin-right: 5px;
+	margin-top: 10px;
+	vertical-align: -1px;
+}
+.rate-stars{
+	display: inline-block;
+	height: 12px;
+	line-height: 12px;
+	background-image: url(../images/star.png);
+	background-repeat: repeat-x;
+	overflow: hidden;
+	vertical-align: top;
